@@ -6,13 +6,13 @@
 
 <h4 align="center">Linguagem que mais uso :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&langs_count=10&theme=tokyonight&layout=compact" alt="HeberSilverio :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoyFlash&langs_count=10&theme=tokyonight&layout=compact" alt="BoyFlash :: Top Langs" /></p>
 
 
 
 <h4 align="center">Contagem de visitantes :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{HeberSilverio}/count.svg" alt="HeberSilverio :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{BoyFlash}/count.svg" alt="BoyFlash :: Visitor's Count" /></p>
 
 <details> 
   <summary align="center"> <b> Coisas a meu respeito </b> <i>(Clique para expandir)</i> </summary>
@@ -28,6 +28,6 @@
 </br>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BoyFlash&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 </p>
 
