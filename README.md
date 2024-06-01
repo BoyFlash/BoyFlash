@@ -22,7 +22,7 @@
 - 🔭 :) Estudando na Digital Innovation One.
 - 🌱 Atualmente, estou aprendendo o desenvolvimento de aplicativos Web com a Digital Innovation One.
 - 👯 Eu estou buscando colaborar com projetos na parte Front-End.
-- 📫 Fale comigo: envie um e-mail para isaquewilliancosta@gmail.com
+- 📫 Fale comigo: envie um e-mail para isaquebrawllegends@gmail.com
 
 </details>
 </br>
