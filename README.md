@@ -1,6 +1,6 @@
 <h3 align="center"> Olá! Eu sou Isaque Willian 👋</h3>
 <p align="center">Ainda sou um garoto com apenas 13 anos. </p>
-<p align="center">O que eu mais gosto é de aprender coisas novas</p>
+<p align="center">O que eu mais gosto é de aprender coisas novas.</p>
 
 
 
